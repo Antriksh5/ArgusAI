@@ -1,0 +1,886 @@
+[
+  {
+    "frame_number": 61,
+    "timestamp_sec": 4.88,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.2897,
+    "bbox": {
+      "x1": 284.63,
+      "y1": 396.37,
+      "x2": 482.09,
+      "y2": 428.5
+    }
+  },
+  {
+    "frame_number": 62,
+    "timestamp_sec": 4.96,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.6142,
+    "bbox": {
+      "x1": 283.01,
+      "y1": 392.88,
+      "x2": 478.15,
+      "y2": 429.01
+    }
+  },
+  {
+    "frame_number": 63,
+    "timestamp_sec": 5.04,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.6561,
+    "bbox": {
+      "x1": 281.3,
+      "y1": 386.17,
+      "x2": 478.19,
+      "y2": 429.12
+    }
+  },
+  {
+    "frame_number": 64,
+    "timestamp_sec": 5.12,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.531,
+    "bbox": {
+      "x1": 280.36,
+      "y1": 381.5,
+      "x2": 478.86,
+      "y2": 428.1
+    }
+  },
+  {
+    "frame_number": 65,
+    "timestamp_sec": 5.2,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.57,
+    "bbox": {
+      "x1": 279.28,
+      "y1": 377.5,
+      "x2": 480.07,
+      "y2": 428.09
+    }
+  },
+  {
+    "frame_number": 66,
+    "timestamp_sec": 5.28,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.3855,
+    "bbox": {
+      "x1": 277.83,
+      "y1": 371.01,
+      "x2": 481.76,
+      "y2": 427.79
+    }
+  },
+  {
+    "frame_number": 67,
+    "timestamp_sec": 5.36,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.5065,
+    "bbox": {
+      "x1": 275.56,
+      "y1": 367.65,
+      "x2": 480.97,
+      "y2": 428.07
+    }
+  },
+  {
+    "frame_number": 68,
+    "timestamp_sec": 5.44,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.392,
+    "bbox": {
+      "x1": 275.21,
+      "y1": 361.04,
+      "x2": 481.92,
+      "y2": 427.61
+    }
+  },
+  {
+    "frame_number": 69,
+    "timestamp_sec": 5.52,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.3948,
+    "bbox": {
+      "x1": 274.85,
+      "y1": 357.66,
+      "x2": 480.96,
+      "y2": 427.89
+    }
+  },
+  {
+    "frame_number": 70,
+    "timestamp_sec": 5.6,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.282,
+    "bbox": {
+      "x1": 274.75,
+      "y1": 353.36,
+      "x2": 479.4,
+      "y2": 426.66
+    }
+  },
+  {
+    "frame_number": 72,
+    "timestamp_sec": 5.76,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.3732,
+    "bbox": {
+      "x1": 272.38,
+      "y1": 343.76,
+      "x2": 475.15,
+      "y2": 426.43
+    }
+  },
+  {
+    "frame_number": 74,
+    "timestamp_sec": 5.92,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.3151,
+    "bbox": {
+      "x1": 270.85,
+      "y1": 334.91,
+      "x2": 467.94,
+      "y2": 426.65
+    }
+  },
+  {
+    "frame_number": 97,
+    "timestamp_sec": 7.76,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.4883,
+    "bbox": {
+      "x1": 280.86,
+      "y1": 78.93,
+      "x2": 402.48,
+      "y2": 117.87
+    }
+  },
+  {
+    "frame_number": 100,
+    "timestamp_sec": 8.0,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.3408,
+    "bbox": {
+      "x1": 284.12,
+      "y1": 57.8,
+      "x2": 399.38,
+      "y2": 86.08
+    }
+  },
+  {
+    "frame_number": 101,
+    "timestamp_sec": 8.08,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.6951,
+    "bbox": {
+      "x1": 283.83,
+      "y1": 48.29,
+      "x2": 399.32,
+      "y2": 72.27
+    }
+  },
+  {
+    "frame_number": 102,
+    "timestamp_sec": 8.16,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.6325,
+    "bbox": {
+      "x1": 283.95,
+      "y1": 44.37,
+      "x2": 397.96,
+      "y2": 66.4
+    }
+  },
+  {
+    "frame_number": 103,
+    "timestamp_sec": 8.24,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.4818,
+    "bbox": {
+      "x1": 283.9,
+      "y1": 35.45,
+      "x2": 396.02,
+      "y2": 52.64
+    }
+  },
+  {
+    "frame_number": 104,
+    "timestamp_sec": 8.32,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.5318,
+    "bbox": {
+      "x1": 284.79,
+      "y1": 31.37,
+      "x2": 395.25,
+      "y2": 47.05
+    }
+  },
+  {
+    "frame_number": 105,
+    "timestamp_sec": 8.4,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.5261,
+    "bbox": {
+      "x1": 286.45,
+      "y1": 27.16,
+      "x2": 394.39,
+      "y2": 40.24
+    }
+  },
+  {
+    "frame_number": 193,
+    "timestamp_sec": 15.44,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.6072,
+    "bbox": {
+      "x1": 135.0,
+      "y1": 92.24,
+      "x2": 269.69,
+      "y2": 137.45
+    }
+  },
+  {
+    "frame_number": 194,
+    "timestamp_sec": 15.52,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.5731,
+    "bbox": {
+      "x1": 130.89,
+      "y1": 103.02,
+      "x2": 268.83,
+      "y2": 153.79
+    }
+  },
+  {
+    "frame_number": 194,
+    "timestamp_sec": 15.52,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.273,
+    "bbox": {
+      "x1": 315.77,
+      "y1": 391.56,
+      "x2": 510.08,
+      "y2": 427.12
+    }
+  },
+  {
+    "frame_number": 196,
+    "timestamp_sec": 15.68,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.6228,
+    "bbox": {
+      "x1": 126.32,
+      "y1": 121.36,
+      "x2": 266.08,
+      "y2": 181.4
+    }
+  },
+  {
+    "frame_number": 197,
+    "timestamp_sec": 15.76,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.5153,
+    "bbox": {
+      "x1": 123.45,
+      "y1": 129.83,
+      "x2": 265.22,
+      "y2": 194.01
+    }
+  },
+  {
+    "frame_number": 198,
+    "timestamp_sec": 15.84,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.4308,
+    "bbox": {
+      "x1": 120.9,
+      "y1": 137.57,
+      "x2": 264.4,
+      "y2": 205.68
+    }
+  },
+  {
+    "frame_number": 201,
+    "timestamp_sec": 16.08,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.3791,
+    "bbox": {
+      "x1": 110.37,
+      "y1": 173.27,
+      "x2": 261.58,
+      "y2": 259.26
+    }
+  },
+  {
+    "frame_number": 201,
+    "timestamp_sec": 16.08,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.3129,
+    "bbox": {
+      "x1": 317.05,
+      "y1": 357.08,
+      "x2": 495.69,
+      "y2": 428.39
+    }
+  },
+  {
+    "frame_number": 203,
+    "timestamp_sec": 16.24,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.2518,
+    "bbox": {
+      "x1": 316.41,
+      "y1": 348.87,
+      "x2": 492.38,
+      "y2": 426.96
+    }
+  },
+  {
+    "frame_number": 204,
+    "timestamp_sec": 16.32,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.3884,
+    "bbox": {
+      "x1": 317.01,
+      "y1": 343.27,
+      "x2": 490.71,
+      "y2": 427.04
+    }
+  },
+  {
+    "frame_number": 205,
+    "timestamp_sec": 16.4,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.3618,
+    "bbox": {
+      "x1": 316.24,
+      "y1": 340.33,
+      "x2": 489.3,
+      "y2": 427.21
+    }
+  },
+  {
+    "frame_number": 207,
+    "timestamp_sec": 16.56,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.4025,
+    "bbox": {
+      "x1": 89.53,
+      "y1": 264.75,
+      "x2": 255.88,
+      "y2": 367.13
+    }
+  },
+  {
+    "frame_number": 210,
+    "timestamp_sec": 16.8,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.3493,
+    "bbox": {
+      "x1": 316.07,
+      "y1": 296.05,
+      "x2": 477.82,
+      "y2": 391.0
+    }
+  },
+  {
+    "frame_number": 211,
+    "timestamp_sec": 16.88,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.3407,
+    "bbox": {
+      "x1": 313.31,
+      "y1": 275.51,
+      "x2": 475.67,
+      "y2": 367.31
+    }
+  },
+  {
+    "frame_number": 212,
+    "timestamp_sec": 16.96,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.4029,
+    "bbox": {
+      "x1": 312.49,
+      "y1": 263.16,
+      "x2": 473.68,
+      "y2": 353.08
+    }
+  },
+  {
+    "frame_number": 213,
+    "timestamp_sec": 17.04,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.268,
+    "bbox": {
+      "x1": 311.94,
+      "y1": 251.0,
+      "x2": 472.29,
+      "y2": 339.55
+    }
+  },
+  {
+    "frame_number": 214,
+    "timestamp_sec": 17.12,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.4086,
+    "bbox": {
+      "x1": 309.89,
+      "y1": 233.22,
+      "x2": 469.77,
+      "y2": 319.1
+    }
+  },
+  {
+    "frame_number": 215,
+    "timestamp_sec": 17.2,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.5146,
+    "bbox": {
+      "x1": 308.11,
+      "y1": 220.94,
+      "x2": 466.57,
+      "y2": 305.73
+    }
+  },
+  {
+    "frame_number": 216,
+    "timestamp_sec": 17.28,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.3927,
+    "bbox": {
+      "x1": 307.7,
+      "y1": 208.32,
+      "x2": 464.69,
+      "y2": 290.77
+    }
+  },
+  {
+    "frame_number": 216,
+    "timestamp_sec": 17.28,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.2651,
+    "bbox": {
+      "x1": 57.85,
+      "y1": 345.74,
+      "x2": 245.63,
+      "y2": 427.64
+    }
+  },
+  {
+    "frame_number": 217,
+    "timestamp_sec": 17.36,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.2695,
+    "bbox": {
+      "x1": 308.2,
+      "y1": 192.47,
+      "x2": 462.22,
+      "y2": 272.78
+    }
+  },
+  {
+    "frame_number": 218,
+    "timestamp_sec": 17.44,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.269,
+    "bbox": {
+      "x1": 308.05,
+      "y1": 181.37,
+      "x2": 460.98,
+      "y2": 259.48
+    }
+  },
+  {
+    "frame_number": 220,
+    "timestamp_sec": 17.6,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.3651,
+    "bbox": {
+      "x1": 306.75,
+      "y1": 155.31,
+      "x2": 455.78,
+      "y2": 230.37
+    }
+  },
+  {
+    "frame_number": 221,
+    "timestamp_sec": 17.68,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.4888,
+    "bbox": {
+      "x1": 306.55,
+      "y1": 145.27,
+      "x2": 453.31,
+      "y2": 217.25
+    }
+  },
+  {
+    "frame_number": 222,
+    "timestamp_sec": 17.76,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.4317,
+    "bbox": {
+      "x1": 306.24,
+      "y1": 136.01,
+      "x2": 449.25,
+      "y2": 203.83
+    }
+  },
+  {
+    "frame_number": 222,
+    "timestamp_sec": 17.76,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.3242,
+    "bbox": {
+      "x1": 63.48,
+      "y1": 381.17,
+      "x2": 237.29,
+      "y2": 427.43
+    }
+  },
+  {
+    "frame_number": 223,
+    "timestamp_sec": 17.84,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.5731,
+    "bbox": {
+      "x1": 64.15,
+      "y1": 386.19,
+      "x2": 236.13,
+      "y2": 428.36
+    }
+  },
+  {
+    "frame_number": 223,
+    "timestamp_sec": 17.84,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.4566,
+    "bbox": {
+      "x1": 305.63,
+      "y1": 128.22,
+      "x2": 448.21,
+      "y2": 192.17
+    }
+  },
+  {
+    "frame_number": 224,
+    "timestamp_sec": 17.92,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.5983,
+    "bbox": {
+      "x1": 64.1,
+      "y1": 394.72,
+      "x2": 235.14,
+      "y2": 428.59
+    }
+  },
+  {
+    "frame_number": 224,
+    "timestamp_sec": 17.92,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.2553,
+    "bbox": {
+      "x1": 305.57,
+      "y1": 116.55,
+      "x2": 445.5,
+      "y2": 174.47
+    }
+  },
+  {
+    "frame_number": 225,
+    "timestamp_sec": 18.0,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.6054,
+    "bbox": {
+      "x1": 65.18,
+      "y1": 400.05,
+      "x2": 234.95,
+      "y2": 429.35
+    }
+  },
+  {
+    "frame_number": 226,
+    "timestamp_sec": 18.08,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.8532,
+    "bbox": {
+      "x1": 308.37,
+      "y1": 103.96,
+      "x2": 440.91,
+      "y2": 155.52
+    }
+  },
+  {
+    "frame_number": 226,
+    "timestamp_sec": 18.08,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.6894,
+    "bbox": {
+      "x1": 63.45,
+      "y1": 406.13,
+      "x2": 234.53,
+      "y2": 430.89
+    }
+  },
+  {
+    "frame_number": 227,
+    "timestamp_sec": 18.16,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.4224,
+    "bbox": {
+      "x1": 307.78,
+      "y1": 93.55,
+      "x2": 438.47,
+      "y2": 139.9
+    }
+  },
+  {
+    "frame_number": 228,
+    "timestamp_sec": 18.24,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.4263,
+    "bbox": {
+      "x1": 308.75,
+      "y1": 86.12,
+      "x2": 436.3,
+      "y2": 129.18
+    }
+  },
+  {
+    "frame_number": 229,
+    "timestamp_sec": 18.32,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.7771,
+    "bbox": {
+      "x1": 307.19,
+      "y1": 77.96,
+      "x2": 432.8,
+      "y2": 116.43
+    }
+  },
+  {
+    "frame_number": 230,
+    "timestamp_sec": 18.4,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.693,
+    "bbox": {
+      "x1": 307.23,
+      "y1": 70.61,
+      "x2": 432.04,
+      "y2": 105.58
+    }
+  },
+  {
+    "frame_number": 230,
+    "timestamp_sec": 18.4,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.5016,
+    "bbox": {
+      "x1": 307.82,
+      "y1": 71.03,
+      "x2": 432.38,
+      "y2": 106.05
+    }
+  },
+  {
+    "frame_number": 231,
+    "timestamp_sec": 18.48,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.5217,
+    "bbox": {
+      "x1": 307.01,
+      "y1": 64.81,
+      "x2": 429.97,
+      "y2": 96.99
+    }
+  },
+  {
+    "frame_number": 231,
+    "timestamp_sec": 18.48,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.4324,
+    "bbox": {
+      "x1": 306.33,
+      "y1": 63.92,
+      "x2": 430.02,
+      "y2": 95.6
+    }
+  },
+  {
+    "frame_number": 232,
+    "timestamp_sec": 18.56,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.8693,
+    "bbox": {
+      "x1": 305.81,
+      "y1": 56.01,
+      "x2": 428.21,
+      "y2": 83.5
+    }
+  },
+  {
+    "frame_number": 233,
+    "timestamp_sec": 18.64,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.7961,
+    "bbox": {
+      "x1": 304.5,
+      "y1": 50.66,
+      "x2": 425.42,
+      "y2": 75.53
+    }
+  },
+  {
+    "frame_number": 234,
+    "timestamp_sec": 18.72,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.6192,
+    "bbox": {
+      "x1": 304.54,
+      "y1": 40.68,
+      "x2": 421.67,
+      "y2": 60.83
+    }
+  },
+  {
+    "frame_number": 235,
+    "timestamp_sec": 18.8,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.751,
+    "bbox": {
+      "x1": 304.26,
+      "y1": 35.83,
+      "x2": 419.43,
+      "y2": 53.51
+    }
+  },
+  {
+    "frame_number": 236,
+    "timestamp_sec": 18.88,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.6125,
+    "bbox": {
+      "x1": 303.36,
+      "y1": 30.15,
+      "x2": 416.95,
+      "y2": 45.14
+    }
+  },
+  {
+    "frame_number": 344,
+    "timestamp_sec": 27.52,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.6177,
+    "bbox": {
+      "x1": 113.48,
+      "y1": 382.23,
+      "x2": 298.09,
+      "y2": 428.63
+    }
+  },
+  {
+    "frame_number": 345,
+    "timestamp_sec": 27.6,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.4287,
+    "bbox": {
+      "x1": 111.47,
+      "y1": 393.44,
+      "x2": 297.76,
+      "y2": 428.99
+    }
+  },
+  {
+    "frame_number": 346,
+    "timestamp_sec": 27.68,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.5747,
+    "bbox": {
+      "x1": 112.2,
+      "y1": 401.86,
+      "x2": 296.6,
+      "y2": 429.11
+    }
+  },
+  {
+    "frame_number": 347,
+    "timestamp_sec": 27.76,
+    "camera_id": "cam_bus_01",
+    "class_name": "license_plate",
+    "confidence": 0.437,
+    "bbox": {
+      "x1": 116.02,
+      "y1": 413.51,
+      "x2": 290.36,
+      "y2": 428.4
+    }
+  }
+]
