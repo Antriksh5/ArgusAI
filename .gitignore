@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.next/
+
+# Large binaries and weights
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# Downloaded tools
+get-pip.py
+
+# Video and Image data
+data/videos/*
+!data/videos/.gitkeep
+data/frames/*
+!data/frames/.gitkeep
+data/detections/plates/*
+!data/detections/plates/.gitkeep
+
+# ML directories (often containing large files)
+ml/datasets/*
+!ml/datasets/.gitkeep
+ml/weights/*
+!ml/weights/.gitkeep
+ml/training/*
+!ml/training/.gitkeep

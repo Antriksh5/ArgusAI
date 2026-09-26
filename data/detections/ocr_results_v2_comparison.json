@@ -1,0 +1,625 @@
+[
+  {
+    "crop_filename": "v2_cam_bus_01_16_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_2_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_16_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.6949,
+    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3608
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_7_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_6_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_28_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_22_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_10_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_13_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_18_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_5_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_28_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.6949,
+    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3608
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_29_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.6949,
+    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3608
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_24_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_13_2.jpg",
+    "rapidocr_text": "EMTMADRIDINMINIBUS100CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.7572,
+    "easyocr_text": "MADRIDIINIHZICICCLRICUSSPUMIEDKOMIALCLACTRICAMEMTEAOCERQ2EMISIONES",
+    "easyocr_confidence": 0.4463
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_15_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_13_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_15_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_9_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_30_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.6949,
+    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3608
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_6_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_28_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_22_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.6949,
+    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3608
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_26_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_3_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_23_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.6949,
+    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3608
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_8_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_20_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_8_2.jpg",
+    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.7831,
+    "easyocr_text": "MADRIDNMLINIHIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
+    "easyocr_confidence": 0.4808
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_15_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.6947,
+    "easyocr_text": "MABRIBUMIUIHISAOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3598
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_12_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_9_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_25_2.jpg",
+    "rapidocr_text": "EMTMADRIDINMINIBUS100CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.7572,
+    "easyocr_text": "MADRIDIINIHZICICCLRICUSSPUMIEDKOMIALCLACTRICAMEMTEAOCERQ2EMISIONES",
+    "easyocr_confidence": 0.4463
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_2_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_1_1.jpg",
+    "rapidocr_text": "EMTMADRIDUNMIMIBUSROOCLEETRICOSTESPLANPUTADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.7645,
+    "easyocr_text": "MABRIDLILCAILUSSHLCLECTRICAMEMIE10CERQ2MENTIBEMISIONES",
+    "easyocr_confidence": 0.4356
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_21_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_26_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.695,
+    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOTMELCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3836
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_29_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_17_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_11_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_7_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_18_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.6949,
+    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3608
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_10_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_1_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_26_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_30_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_23_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_27_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.6947,
+    "easyocr_text": "MABRIBUMIUIHISAOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3598
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_10_2.jpg",
+    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.7831,
+    "easyocr_text": "MADRIDNMLINIHIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
+    "easyocr_confidence": 0.4808
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_7_2.jpg",
+    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.7831,
+    "easyocr_text": "MADRIDNMLINIHIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
+    "easyocr_confidence": 0.4808
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_4_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_24_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_12_2.jpg",
+    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.7831,
+    "easyocr_text": "MADRIDNMLINIHIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
+    "easyocr_confidence": 0.4808
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_21_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_14_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_3_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_22_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_25_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_17_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.6949,
+    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3608
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_19_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.6949,
+    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3608
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_21_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.6949,
+    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3608
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_3_2.jpg",
+    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.7636,
+    "easyocr_text": "MADRIDNMLINILIELEELRICOVIVSPLAUMIBRKOMIUECLACTRICAMEMTE10CERO2EMISIONES",
+    "easyocr_confidence": 0.4834
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_4_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_14_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_19_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_11_2.jpg",
+    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.7831,
+    "easyocr_text": "MADRIDNMLINIHIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
+    "easyocr_confidence": 0.4808
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_29_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_25_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_6_2.jpg",
+    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.7831,
+    "easyocr_text": "MADRIDNMLINIHIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
+    "easyocr_confidence": 0.4808
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_24_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.6949,
+    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3608
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_27_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_17_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_2_2.jpg",
+    "rapidocr_text": "EMTMADRIDUNMINIHUS1OOELECTRICOSIESPLANPMADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.7512,
+    "easyocr_text": "MABIBU1IINIH7ICICELRICUSESPUIMEDOMIUCCLECTNICAMEMIE10CERQ2EMISIONES",
+    "easyocr_confidence": 0.407
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_4_2.jpg",
+    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.7841,
+    "easyocr_text": "MADRIDNMLINILELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
+    "easyocr_confidence": 0.4827
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_14_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.695,
+    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOTMELCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3836
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_19_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_5_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_5_2.jpg",
+    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.7849,
+    "easyocr_text": "MADRIDNMLINILIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
+    "easyocr_confidence": 0.481
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_30_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_8_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_9_2.jpg",
+    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.7831,
+    "easyocr_text": "MADRIDNMLINIHIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
+    "easyocr_confidence": 0.4808
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_11_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_20_2.jpg",
+    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
+    "rapidocr_confidence": 0.6949,
+    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
+    "easyocr_confidence": 0.3608
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_16_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_23_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_20_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_27_1.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_18_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  },
+  {
+    "crop_filename": "v2_cam_bus_01_12_0.jpg",
+    "rapidocr_text": "",
+    "rapidocr_confidence": 0.0,
+    "easyocr_text": "",
+    "easyocr_confidence": 0.0
+  }
+]

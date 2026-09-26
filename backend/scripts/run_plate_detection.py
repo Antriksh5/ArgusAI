@@ -22,7 +22,7 @@ def main():
     print(f"Running plate detection on {video_path}...")
     detections = detect_plates(video_path, camera_id)
     
-    output_file = "data/detections/plates_sample.json"
+    output_file = "data/detections/plates_sample_v2.json"
     with open(output_file, 'w') as f:
         json.dump(detections, f, indent=2)
         

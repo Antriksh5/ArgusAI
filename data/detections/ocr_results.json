@@ -1,0 +1,688 @@
+[
+  {
+    "crop_filename": "cam_bus_01_100_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 100,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_101_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 101,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_102_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 102,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_103_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 103,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_104_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 104,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_105_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 105,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_10_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 10,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_11_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 11,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_12_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 12,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_13_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 13,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_14_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 14,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_15_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 15,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_16_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 16,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_17_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 17,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_18_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 18,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_193_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 193,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_194_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 194,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_194_1.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 194,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_196_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 196,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_197_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 197,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_198_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 198,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_19_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 19,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_1_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 1,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_201_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 201,
+    "plate_text": "A",
+    "confidence": 0.2612
+  },
+  {
+    "crop_filename": "cam_bus_01_201_1.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 201,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_203_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 203,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_204_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 204,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_205_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 205,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_207_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 207,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_20_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 20,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_210_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 210,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_211_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 211,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_212_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 212,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_213_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 213,
+    "plate_text": "EC",
+    "confidence": 0.2365
+  },
+  {
+    "crop_filename": "cam_bus_01_214_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 214,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_215_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 215,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_216_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 216,
+    "plate_text": "A3",
+    "confidence": 0.111
+  },
+  {
+    "crop_filename": "cam_bus_01_216_1.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 216,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_217_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 217,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_218_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 218,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_21_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 21,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_220_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 220,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_221_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 221,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_222_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 222,
+    "plate_text": "A",
+    "confidence": 0.0856
+  },
+  {
+    "crop_filename": "cam_bus_01_222_1.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 222,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_223_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 223,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_223_1.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 223,
+    "plate_text": "66",
+    "confidence": 0.0527
+  },
+  {
+    "crop_filename": "cam_bus_01_224_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 224,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_224_1.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 224,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_225_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 225,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_226_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 226,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_226_1.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 226,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_227_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 227,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_228_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 228,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_229_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 229,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_22_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 22,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_230_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 230,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_230_1.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 230,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_231_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 231,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_231_1.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 231,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_232_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 232,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_233_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 233,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_234_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 234,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_235_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 235,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_236_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 236,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_23_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 23,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_24_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 24,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_25_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 25,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_26_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 26,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_27_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 27,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_28_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 28,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_29_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 29,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_2_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 2,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_30_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 30,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_344_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 344,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_345_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 345,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_346_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 346,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_347_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 347,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_3_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 3,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_4_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 4,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_5_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 5,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_61_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 61,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_62_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 62,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_63_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 63,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_64_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 64,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_65_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 65,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_66_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 66,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_67_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 67,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_68_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 68,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_69_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 69,
+    "plate_text": "0",
+    "confidence": 0.1151
+  },
+  {
+    "crop_filename": "cam_bus_01_6_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 6,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_70_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 70,
+    "plate_text": "0",
+    "confidence": 0.0691
+  },
+  {
+    "crop_filename": "cam_bus_01_72_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 72,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_74_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 74,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_7_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 7,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_8_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 8,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_97_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 97,
+    "plate_text": "",
+    "confidence": 0.0
+  },
+  {
+    "crop_filename": "cam_bus_01_9_0.jpg",
+    "camera_id": "cam_bus_01",
+    "frame_number": 9,
+    "plate_text": "",
+    "confidence": 0.0
+  }
+]
