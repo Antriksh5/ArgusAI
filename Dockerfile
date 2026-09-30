@@ -15,7 +15,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy application code
 COPY backend/ ./backend/
 COPY data/cameras.json ./data/cameras.json
-COPY ml/weights/ ./ml/weights/
 
 # ── Runtime ───────────────────────────────────────────────────────────────
 WORKDIR /app/backend
