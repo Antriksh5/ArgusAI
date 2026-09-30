@@ -117,7 +117,7 @@ def get_trajectories(db: Session = Depends(get_db)):
                 if e.location is not None:
                     try:
                         pt = to_shape(e.location)
-                        lat, lon = pt.y, pt.x
+                        lat, lon = pt.y, pt.x  # type: ignore[attr-defined]
                     except Exception:
                         pass
                 pts.append({
