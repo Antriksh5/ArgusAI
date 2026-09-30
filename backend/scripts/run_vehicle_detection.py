@@ -11,7 +11,7 @@ def main():
     if len(sys.argv) > 1:
         video_path = sys.argv[1]
     else:
-        video_path = "data/videos/bus_video.mp4"
+        video_path = "data/videos/sample.mp4"
         
     if not os.path.exists(video_path):
         print(f"Error: {video_path} not found.")

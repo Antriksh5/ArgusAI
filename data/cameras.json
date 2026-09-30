@@ -1,0 +1,47 @@
+[
+  {
+    "camera_id": "cam_bus_01_hyderabad_north",
+    "source_video": "data/videos/sample.mp4",
+    "purpose": "alpr",
+    "sim_start_time": "2026-09-28T10:00:00Z",
+    "is_simulated_reuse": false,
+    "route": [
+      [17.3850, 78.4867],
+      [17.3870, 78.4880],
+      [17.3892, 78.4905],
+      [17.3910, 78.4920],
+      [17.3935, 78.4935],
+      [17.3950, 78.4950]
+    ]
+  },
+  {
+    "camera_id": "cam_bus_02_hyderabad_south",
+    "source_video": "data/videos/bus_video.mp4",
+    "purpose": "alpr",
+    "sim_start_time": "2026-09-28T10:15:00Z",
+    "is_simulated_reuse": false,
+    "route": [
+      [17.3850, 78.4867],
+      [17.3830, 78.4855],
+      [17.3812, 78.4840],
+      [17.3795, 78.4820],
+      [17.3775, 78.4800],
+      [17.3750, 78.4780]
+    ]
+  },
+  {
+    "camera_id": "cam_bus_03_hyderabad_east",
+    "source_video": "data/videos/pothhole.mp4",
+    "purpose": "hazard",
+    "sim_start_time": "2026-09-28T10:30:00Z",
+    "is_simulated_reuse": false,
+    "route": [
+      [17.3850, 78.4867],
+      [17.3845, 78.4888],
+      [17.3842, 78.4908],
+      [17.3838, 78.4928],
+      [17.3835, 78.4947],
+      [17.3850, 78.4967]
+    ]
+  }
+]

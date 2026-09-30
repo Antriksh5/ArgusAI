@@ -1,625 +1,906 @@
 [
   {
-    "crop_filename": "v2_cam_bus_01_16_1.jpg",
+    "crop_filename": "v3_cam_bus_01_100_0_0.jpg",
     "rapidocr_text": "",
     "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "tesseract_text": "TT",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_2_1.jpg",
+    "crop_filename": "v3_cam_bus_01_103_0_0.jpg",
     "rapidocr_text": "",
     "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_16_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.6949,
-    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3608
+    "crop_filename": "v3_cam_bus_01_10_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.7998,
+    "tesseract_text": "I7S07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_7_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "crop_filename": "v3_cam_bus_01_11_0_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.7788,
+    "tesseract_text": "TS071S9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_6_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "crop_filename": "v3_cam_bus_01_12_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.838,
+    "tesseract_text": "TS07 JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_28_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "crop_filename": "v3_cam_bus_01_13_0_0.jpg",
+    "rapidocr_text": "TS07JS9670T",
+    "rapidocr_confidence": 0.5484,
+    "tesseract_text": "ITS07JS9670I",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_22_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "crop_filename": "v3_cam_bus_01_13_2_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8027,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_10_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "crop_filename": "v3_cam_bus_01_14_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8715,
+    "tesseract_text": "1S073S9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_13_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "crop_filename": "v3_cam_bus_01_15_0_0.jpg",
+    "rapidocr_text": "TS077JS9670S",
+    "rapidocr_confidence": 0.5376,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_18_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "crop_filename": "v3_cam_bus_01_15_1_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.7766,
+    "tesseract_text": "TS07JS96701",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_5_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "crop_filename": "v3_cam_bus_01_16_0_0.jpg",
+    "rapidocr_text": "TS07JS96701",
+    "rapidocr_confidence": 0.4642,
+    "tesseract_text": "1807JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_28_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.6949,
-    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3608
+    "crop_filename": "v3_cam_bus_01_17_0_0.jpg",
+    "rapidocr_text": "TS077JS9670S",
+    "rapidocr_confidence": 0.5979,
+    "tesseract_text": "907JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_29_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.6949,
-    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3608
+    "crop_filename": "v3_cam_bus_01_18_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.7725,
+    "tesseract_text": "JTS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_24_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "crop_filename": "v3_cam_bus_01_19_0_0.jpg",
+    "rapidocr_text": "TS07JJS9670R",
+    "rapidocr_confidence": 0.5554,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_13_2.jpg",
-    "rapidocr_text": "EMTMADRIDINMINIBUS100CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.7572,
-    "easyocr_text": "MADRIDIINIHZICICCLRICUSSPUMIEDKOMIALCLACTRICAMEMTEAOCERQ2EMISIONES",
-    "easyocr_confidence": 0.4463
+    "crop_filename": "v3_cam_bus_01_19_2_0.jpg",
+    "rapidocr_text": "TS07JJS9670N",
+    "rapidocr_confidence": 0.5653,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_15_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "crop_filename": "v3_cam_bus_01_1_0_0.jpg",
+    "rapidocr_text": "TS07JJS9670",
+    "rapidocr_confidence": 0.7967,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_13_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "crop_filename": "v3_cam_bus_01_1_1_0.jpg",
+    "rapidocr_text": "TS07JJS9670",
+    "rapidocr_confidence": 0.7967,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_15_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "crop_filename": "v3_cam_bus_01_20_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8831,
+    "tesseract_text": "1S07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_9_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "crop_filename": "v3_cam_bus_01_20_1_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8664,
+    "tesseract_text": "I7S07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_30_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.6949,
-    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3608
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_6_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_28_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_22_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.6949,
-    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3608
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_26_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_3_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_23_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.6949,
-    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3608
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_8_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_20_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_8_2.jpg",
-    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.7831,
-    "easyocr_text": "MADRIDNMLINIHIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
-    "easyocr_confidence": 0.4808
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_15_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.6947,
-    "easyocr_text": "MABRIBUMIUIHISAOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3598
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_12_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_9_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_25_2.jpg",
-    "rapidocr_text": "EMTMADRIDINMINIBUS100CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.7572,
-    "easyocr_text": "MADRIDIINIHZICICCLRICUSSPUMIEDKOMIALCLACTRICAMEMTEAOCERQ2EMISIONES",
-    "easyocr_confidence": 0.4463
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_2_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_1_1.jpg",
-    "rapidocr_text": "EMTMADRIDUNMIMIBUSROOCLEETRICOSTESPLANPUTADEELECTRICAMEMTE10CEROEMISIONES",
+    "crop_filename": "v3_cam_bus_01_21_0_0.jpg",
+    "rapidocr_text": "TS07JJS9670",
     "rapidocr_confidence": 0.7645,
-    "easyocr_text": "MABRIDLILCAILUSSHLCLECTRICAMEMIE10CERQ2MENTIBEMISIONES",
-    "easyocr_confidence": 0.4356
+    "tesseract_text": "1TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_21_0.jpg",
+    "crop_filename": "v3_cam_bus_01_22_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8758,
+    "tesseract_text": "1TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_23_0_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.7979,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_24_0_0.jpg",
+    "rapidocr_text": "TS07JS9670L",
+    "rapidocr_confidence": 0.5443,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_25_0_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.8008,
+    "tesseract_text": "IT07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_26_0_0.jpg",
+    "rapidocr_text": "TS077JS96702",
+    "rapidocr_confidence": 0.5327,
+    "tesseract_text": "1707JS9670I",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_27_0_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.789,
+    "tesseract_text": "11807 JS96705",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_28_0_0.jpg",
+    "rapidocr_text": "TS07J7JS9670U",
+    "rapidocr_confidence": 0.5507,
+    "tesseract_text": "1707JS96701",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_29_0_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.7699,
+    "tesseract_text": "1TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_2_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.7559,
+    "tesseract_text": "7507 5S9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_2_1_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.7559,
+    "tesseract_text": "7507 5S9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_30_0_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.7876,
+    "tesseract_text": "11S07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_31_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.804,
+    "tesseract_text": "17S07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_32_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8014,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_33_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8414,
+    "tesseract_text": "7S07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_34_0_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.7844,
+    "tesseract_text": "7S07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_35_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8267,
+    "tesseract_text": "1S07 J9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_35_1_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.8117,
+    "tesseract_text": "1S07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_36_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8401,
+    "tesseract_text": "LTS07 J9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_36_1_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8767,
+    "tesseract_text": "1S07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_37_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8297,
+    "tesseract_text": "1TS07JS96701",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_37_1_0.jpg",
+    "rapidocr_text": "TSO7JS9670",
+    "rapidocr_confidence": 0.8416,
+    "tesseract_text": "TS07JS96701",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_38_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8005,
+    "tesseract_text": "TS07JS9670F",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_38_1_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.8002,
+    "tesseract_text": "ITS07JS96701",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_39_0_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.7344,
+    "tesseract_text": "11507JS96701",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_3_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8784,
+    "tesseract_text": "1507S9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_3_1_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8784,
+    "tesseract_text": "1507S9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_40_0_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.7756,
+    "tesseract_text": "11S07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_40_0_2.jpg",
     "rapidocr_text": "",
     "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_26_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.695,
-    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOTMELCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3836
+    "crop_filename": "v3_cam_bus_01_41_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8093,
+    "tesseract_text": "ITS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_29_1.jpg",
+    "crop_filename": "v3_cam_bus_01_41_0_2.jpg",
     "rapidocr_text": "",
     "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_17_0.jpg",
+    "crop_filename": "v3_cam_bus_01_41_0_5.jpg",
     "rapidocr_text": "",
     "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "tesseract_text": "S",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_11_0.jpg",
+    "crop_filename": "v3_cam_bus_01_42_0_0.jpg",
+    "rapidocr_text": "TSO77JS9670I",
+    "rapidocr_confidence": 0.5477,
+    "tesseract_text": "1TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_42_1_0.jpg",
+    "rapidocr_text": "TS07JS9670L",
+    "rapidocr_confidence": 0.5694,
+    "tesseract_text": "ITS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_42_1_2.jpg",
     "rapidocr_text": "",
     "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_7_1.jpg",
+    "crop_filename": "v3_cam_bus_01_43_0_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.7912,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_43_0_1.jpg",
+    "rapidocr_text": "5",
+    "rapidocr_confidence": 0.2014,
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_43_0_2.jpg",
     "rapidocr_text": "",
     "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "tesseract_text": "BR",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_18_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.6949,
-    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3608
+    "crop_filename": "v3_cam_bus_01_44_0_0.jpg",
+    "rapidocr_text": "TS07JS96701",
+    "rapidocr_confidence": 0.549,
+    "tesseract_text": "1TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_10_0.jpg",
+    "crop_filename": "v3_cam_bus_01_44_1_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8047,
+    "tesseract_text": "1TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_45_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.7815,
+    "tesseract_text": "1TS07JS96701",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_45_0_2.jpg",
+    "rapidocr_text": "M",
+    "rapidocr_confidence": 0.2087,
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_46_0_0.jpg",
+    "rapidocr_text": "TS07JS9670U",
+    "rapidocr_confidence": 0.57,
+    "tesseract_text": "1TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_46_0_1.jpg",
     "rapidocr_text": "",
     "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_1_0.jpg",
+    "crop_filename": "v3_cam_bus_01_46_1_0.jpg",
+    "rapidocr_text": "TS07JS96701",
+    "rapidocr_confidence": 0.5341,
+    "tesseract_text": "1TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_46_1_1.jpg",
     "rapidocr_text": "",
     "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_26_0.jpg",
+    "crop_filename": "v3_cam_bus_01_46_1_2.jpg",
+    "rapidocr_text": "9",
+    "rapidocr_confidence": 0.0877,
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_47_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8886,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_47_1_0.jpg",
+    "rapidocr_text": "TS07JS96701",
+    "rapidocr_confidence": 0.4958,
+    "tesseract_text": "TSO7JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_48_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8931,
+    "tesseract_text": "1S07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_48_0_1.jpg",
+    "rapidocr_text": "H",
+    "rapidocr_confidence": 0.2114,
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_49_0_0.jpg",
+    "rapidocr_text": "TS07JS96701",
+    "rapidocr_confidence": 0.4709,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_4_0_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.7783,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_4_1_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.7783,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_50_0_0.jpg",
+    "rapidocr_text": "TS07JS967701",
+    "rapidocr_confidence": 0.5736,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_50_1_0.jpg",
+    "rapidocr_text": "TS07JS9670T",
+    "rapidocr_confidence": 0.6169,
+    "tesseract_text": "ITS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_51_0_0.jpg",
+    "rapidocr_text": "TS077JS96702",
+    "rapidocr_confidence": 0.5548,
+    "tesseract_text": "TSO7JS96701",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_51_1_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8473,
+    "tesseract_text": "1TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_52_0_0.jpg",
+    "rapidocr_text": "TS077JS96702",
+    "rapidocr_confidence": 0.5589,
+    "tesseract_text": "1TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_52_0_1.jpg",
     "rapidocr_text": "",
     "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_30_1.jpg",
+    "crop_filename": "v3_cam_bus_01_52_1_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.7935,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_52_1_1.jpg",
+    "rapidocr_text": "T7Y",
+    "rapidocr_confidence": 0.1668,
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_53_0_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.8026,
+    "tesseract_text": "TS07 JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_53_1_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.8165,
+    "tesseract_text": "TS07 JS967 01",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_54_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.864,
+    "tesseract_text": "S07 JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_54_1_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.7889,
+    "tesseract_text": "TSO7JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_55_0_0.jpg",
+    "rapidocr_text": "TS077JS9670L",
+    "rapidocr_confidence": 0.5748,
+    "tesseract_text": "S07 JS967",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_55_1_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.8166,
+    "tesseract_text": "TS07 JS96701",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_56_0_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.8168,
+    "tesseract_text": "TS07 JS96701",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_56_1_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8537,
+    "tesseract_text": "TSO7 JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_57_0_0.jpg",
+    "rapidocr_text": "TS077JS9670U",
+    "rapidocr_confidence": 0.5587,
+    "tesseract_text": "TSO7JS96701",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_58_0_0.jpg",
+    "rapidocr_text": "S07JS96701",
+    "rapidocr_confidence": 0.6123,
+    "tesseract_text": "07JS967 Y",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_59_0_0.jpg",
+    "rapidocr_text": "607JS9670U",
+    "rapidocr_confidence": 0.5235,
+    "tesseract_text": "B07 JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_59_1_0.jpg",
+    "rapidocr_text": "077JS96702",
+    "rapidocr_confidence": 0.5234,
+    "tesseract_text": "07JS96701",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_5_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8712,
+    "tesseract_text": "3507 5S9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_60_0_0.jpg",
+    "rapidocr_text": "7JS96707",
+    "rapidocr_confidence": 0.6595,
+    "tesseract_text": "17JS3670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_60_1_0.jpg",
+    "rapidocr_text": "677JS9670",
+    "rapidocr_confidence": 0.7082,
+    "tesseract_text": "N7JSS670I",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_61_0_0.jpg",
+    "rapidocr_text": "7JS967011",
+    "rapidocr_confidence": 0.3645,
+    "tesseract_text": "73S96701",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_61_1_0.jpg",
+    "rapidocr_text": "7JS9670",
+    "rapidocr_confidence": 0.8478,
+    "tesseract_text": "7JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_62_0_0.jpg",
+    "rapidocr_text": "S9670",
+    "rapidocr_confidence": 0.8211,
+    "tesseract_text": "9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_63_0_0.jpg",
+    "rapidocr_text": "9670",
+    "rapidocr_confidence": 0.7595,
+    "tesseract_text": "967 0",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_64_0_0.jpg",
+    "rapidocr_text": "670",
+    "rapidocr_confidence": 0.7303,
+    "tesseract_text": "1670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_65_0_0.jpg",
+    "rapidocr_text": "70",
+    "rapidocr_confidence": 0.645,
+    "tesseract_text": "B70",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_66_0_0.jpg",
     "rapidocr_text": "",
     "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_23_1.jpg",
+    "crop_filename": "v3_cam_bus_01_6_0_0.jpg",
+    "rapidocr_text": "TSO7151900",
+    "rapidocr_confidence": 0.479,
+    "tesseract_text": "L7S07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_7_0_0.jpg",
+    "rapidocr_text": "TS07JS96701",
+    "rapidocr_confidence": 0.5577,
+    "tesseract_text": "E TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_80_0_0.jpg",
     "rapidocr_text": "",
     "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_27_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.6947,
-    "easyocr_text": "MABRIBUMIUIHISAOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3598
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_10_2.jpg",
-    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.7831,
-    "easyocr_text": "MADRIDNMLINIHIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
-    "easyocr_confidence": 0.4808
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_7_2.jpg",
-    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.7831,
-    "easyocr_text": "MADRIDNMLINIHIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
-    "easyocr_confidence": 0.4808
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_4_1.jpg",
+    "crop_filename": "v3_cam_bus_01_86_0_0.jpg",
     "rapidocr_text": "",
     "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_24_0.jpg",
+    "crop_filename": "v3_cam_bus_01_8_0_0.jpg",
+    "rapidocr_text": "TS077JS9670",
+    "rapidocr_confidence": 0.7644,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_90_0_0.jpg",
+    "rapidocr_text": "WFO",
+    "rapidocr_confidence": 0.1359,
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_91_0_0.jpg",
+    "rapidocr_text": "8",
+    "rapidocr_confidence": 0.1554,
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
+  },
+  {
+    "crop_filename": "v3_cam_bus_01_95_0_0.jpg",
     "rapidocr_text": "",
     "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "tesseract_text": "",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_12_2.jpg",
-    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.7831,
-    "easyocr_text": "MADRIDNMLINIHIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
-    "easyocr_confidence": 0.4808
+    "crop_filename": "v3_cam_bus_01_96_0_0.jpg",
+    "rapidocr_text": "8P",
+    "rapidocr_confidence": 0.1422,
+    "tesseract_text": "LPF",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   },
   {
-    "crop_filename": "v2_cam_bus_01_21_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_14_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_3_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_22_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_25_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_17_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.6949,
-    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3608
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_19_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.6949,
-    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3608
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_21_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.6949,
-    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3608
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_3_2.jpg",
-    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.7636,
-    "easyocr_text": "MADRIDNMLINILIELEELRICOVIVSPLAUMIBRKOMIUECLACTRICAMEMTE10CERO2EMISIONES",
-    "easyocr_confidence": 0.4834
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_4_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_14_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_19_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_11_2.jpg",
-    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.7831,
-    "easyocr_text": "MADRIDNMLINIHIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
-    "easyocr_confidence": 0.4808
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_29_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_25_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_6_2.jpg",
-    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.7831,
-    "easyocr_text": "MADRIDNMLINIHIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
-    "easyocr_confidence": 0.4808
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_24_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.6949,
-    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3608
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_27_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_17_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_2_2.jpg",
-    "rapidocr_text": "EMTMADRIDUNMINIHUS1OOELECTRICOSIESPLANPMADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.7512,
-    "easyocr_text": "MABIBU1IINIH7ICICELRICUSESPUIMEDOMIUCCLECTNICAMEMIE10CERQ2EMISIONES",
-    "easyocr_confidence": 0.407
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_4_2.jpg",
-    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.7841,
-    "easyocr_text": "MADRIDNMLINILELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
-    "easyocr_confidence": 0.4827
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_14_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.695,
-    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOTMELCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3836
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_19_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_5_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_5_2.jpg",
-    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.7849,
-    "easyocr_text": "MADRIDNMLINILIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
-    "easyocr_confidence": 0.481
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_30_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_8_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_9_2.jpg",
-    "rapidocr_text": "EMTMADRIDUNMINIHUS00CLECTRICOSIESPLANPMIADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.7831,
-    "easyocr_text": "MADRIDNMLINIHIELEELRICOVIVSPLAUMIBRKOMIULCLACTRICAMEMTE10CERO2EMISIONES",
-    "easyocr_confidence": 0.4808
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_11_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_20_2.jpg",
-    "rapidocr_text": "EMTDMADRIDINMINIBUS1OOELECTRICOSIESPLANPADEELECTRICAMEMTE10CEROEMISIONES",
-    "rapidocr_confidence": 0.6949,
-    "easyocr_text": "MABRIBUMIUIHISACOELCCTRICOSIESPLANMBRKOMALCLECTRICAMEMIE10CERO2EMISIONES",
-    "easyocr_confidence": 0.3608
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_16_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_23_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_20_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_27_1.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_18_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
-  },
-  {
-    "crop_filename": "v2_cam_bus_01_12_0.jpg",
-    "rapidocr_text": "",
-    "rapidocr_confidence": 0.0,
-    "easyocr_text": "",
-    "easyocr_confidence": 0.0
+    "crop_filename": "v3_cam_bus_01_9_0_0.jpg",
+    "rapidocr_text": "TS07JS9670",
+    "rapidocr_confidence": 0.8032,
+    "tesseract_text": "TS07JS9670",
+    "easyocr_text": "skipped",
+    "easyocr_confidence": -1.0
   }
 ]

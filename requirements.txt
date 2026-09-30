@@ -1,4 +1,26 @@
-ultralytics
-opencv-python
-numpy
-rapidocr-onnxruntime
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Core vision / detection
+ultralytics==8.4.161
+opencv-python==5.0.0.93
+numpy==2.5.3
+
+# OCR engines
+rapidocr-onnxruntime==1.2.3
+easyocr==1.7.2
+pytesseract==0.3.13
+torch==2.14.0+cpu
+
+# HuggingFace dataset download
+huggingface-hub==1.33.0
+
+# (Optional) Backend API
+fastapi
+uvicorn[standard]
+pydantic
+SQLAlchemy
+geoalchemy2
+psycopg2-binary
+antlr4-python3-runtime==4.9.3
+lap==0.5.13
+omegaconf==2.3.1

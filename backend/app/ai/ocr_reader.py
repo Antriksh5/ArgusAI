@@ -41,7 +41,17 @@ def _get_engine():
                 "rapidocr-onnxruntime is not installed. "
                 "Run: pip install rapidocr-onnxruntime"
             ) from exc
-        _ocr_engine = RapidOCR(text_score=_TEXT_SCORE_THRESHOLD)
+            
+        import os
+        base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../ml/weights"))
+        rec_model = os.path.join(base_dir, "PP-OCRv3/en_PP-OCRv3_rec_infer.onnx")
+        rec_keys = os.path.join(base_dir, "en_dict.txt")
+        
+        _ocr_engine = RapidOCR(
+            text_score=_TEXT_SCORE_THRESHOLD,
+            rec_model_path=rec_model,
+            rec_keys_path=rec_keys
+        )
     return _ocr_engine
 
 

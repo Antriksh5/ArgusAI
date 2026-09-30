@@ -58,3 +58,15 @@ ml/weights/*
 !ml/weights/.gitkeep
 ml/training/*
 !ml/training/.gitkeep
+
+# Pipeline Output
+data/detections/*.json
+!data/detections/*_sample*.json
+
+# Frontend Vite
+frontend/node_modules
+frontend/dist
+frontend/dist-ssr
+frontend/*.local
+frontend/.env*
+!frontend/.env.example

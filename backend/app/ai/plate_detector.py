@@ -1,5 +1,6 @@
 import os
 import cv2
+import datetime
 from .vehicle_detector import detect_vehicles
 from ultralytics import YOLO
 
@@ -15,9 +16,22 @@ LARGE_VEHICLE_CLASS_IDS = {5, 7}
 # ── YOLOv8 License Plate Detector ──────────────────────────────────────────
 _plate_model = None
 
+def compute_iou(box1, box2):
+    x1 = max(box1[0], box2[0])
+    y1 = max(box1[1], box2[1])
+    x2 = min(box1[2], box2[2])
+    y2 = min(box1[3], box2[3])
+    inter_area = max(0, x2 - x1) * max(0, y2 - y1)
+    if inter_area == 0: return 0.0
+    box1_area = (box1[2] - box1[0]) * (box1[3] - box1[1])
+    box2_area = (box2[2] - box2[0]) * (box2[3] - box2[1])
+    return inter_area / float(box1_area + box2_area - inter_area)
+
 def _get_plate_model():
     global _plate_model
     if _plate_model is None:
+        # Note: 'yolov8_plate_detector.pt' is the active model file.
+        # 'plate_detector.pt' in the same directory is an earlier/unused version.
         model_path = os.path.abspath("ml/weights/yolov8_plate_detector.pt")
         _plate_model = YOLO(model_path)
     return _plate_model
@@ -34,8 +48,12 @@ def detect_plates(video_path: str, camera_id: str) -> list[dict]:
     if not cap.isOpened():
         raise ValueError(f"Could not open video {video_path}")
 
-    plate_dir = "data/detections/plates"
+    timestamp_str = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    plate_dir = f"data/detections/plates/run_{timestamp_str}"
     os.makedirs(plate_dir, exist_ok=True)
+    
+    # Store this for the caller to know where we wrote crops
+    detections_metadata = {"plate_dir": plate_dir}
 
     model = _get_plate_model()
     
@@ -62,6 +80,8 @@ def detect_plates(video_path: str, camera_id: str) -> list[dict]:
             continue
 
         height, width = frame.shape[:2]
+
+        frame_plate_boxes = []
 
         for i, v_det in enumerate(frames_dict[frame_count]):
             v_box = v_det["bbox"]
@@ -96,6 +116,17 @@ def detect_plates(video_path: str, camera_id: str) -> list[dict]:
                     skipped_small += 1
                     continue
                     
+                # Deduplicate overlapping boxes in the same frame
+                new_box = (p_x1, p_y1, p_x2, p_y2)
+                is_duplicate = False
+                for existing_box in frame_plate_boxes:
+                    if compute_iou(new_box, existing_box) > 0.4:
+                        is_duplicate = True
+                        break
+                if is_duplicate:
+                    continue
+                frame_plate_boxes.append(new_box)
+                
                 crop_filename = f"v3_{camera_id}_{frame_count}_{i}_{j}.jpg"
                 crop_path = os.path.join(plate_dir, crop_filename)
                 cv2.imwrite(crop_path, plate_crop)
@@ -107,6 +138,7 @@ def detect_plates(video_path: str, camera_id: str) -> list[dict]:
                     "camera_id": camera_id,
                     "class_name": "license_plate",
                     "confidence": round(conf, 4),
+                    "crop_filename": crop_filename,
                     "bbox": {
                         "x1": round(float(p_x1), 2),
                         "y1": round(float(p_y1), 2),
@@ -117,7 +149,7 @@ def detect_plates(video_path: str, camera_id: str) -> list[dict]:
 
     cap.release()
     print(f"[plate_detector] saved={saved}, skipped_small={skipped_small}")
-    return detections
+    return detections, plate_dir
 
 
 def _plate_bbox_from_vehicle(v_box: dict, class_id: int) -> tuple[int, int, int, int]:
@@ -162,7 +194,8 @@ def detect_plates_heuristic_fallback(video_path: str, camera_id: str) -> list[di
     if not cap.isOpened():
         raise ValueError(f"Could not open video {video_path}")
 
-    plate_dir = "data/detections/plates"
+    timestamp_str = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    plate_dir = f"data/detections/plates/run_fallback_{timestamp_str}"
     os.makedirs(plate_dir, exist_ok=True)
 
     frames_dict: dict[int, list[dict]] = {}
@@ -229,4 +262,4 @@ def detect_plates_heuristic_fallback(video_path: str, camera_id: str) -> list[di
 
     cap.release()
     print(f"[plate_detector fallback] saved={saved}, skipped_small={skipped_small}")
-    return detections
+    return detections, plate_dir

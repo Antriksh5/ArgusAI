@@ -5,7 +5,7 @@ import sys
 def run_detection(video_path):
     print(f"Loading YOLOv8 model for vehicle detection on {video_path}...")
     # Load the pretrained YOLOv8n (nano) model - CPU default unless GPU is available
-    model = YOLO("yolov8n.pt") 
+    model = YOLO("ml/weights/yolov8n.pt") 
     
     cap = cv2.VideoCapture(video_path)
     if not cap.isOpened():
