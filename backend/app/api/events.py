@@ -14,8 +14,8 @@ def serialize_event(event: VehicleEvent):
         try:
             pt = to_shape(event.location)
             loc_dict = {"latitude": pt.y, "longitude": pt.x}
-        except Exception:
-            pass
+        except Exception as e:
+            print(f"[WARN] Could not parse location for vehicle event {event.id}: {e}")
 
     return {
         "id": event.id,
@@ -57,8 +57,8 @@ def serialize_hazard(event: HazardEvent):
         try:
             pt = to_shape(event.location)
             loc_dict = {"latitude": pt.y, "longitude": pt.x}
-        except Exception:
-            pass
+        except Exception as e:
+            print(f"[WARN] Could not parse location for hazard event {event.id}: {e}")
     return {
         "id": event.id,
         "camera_id": event.camera_id,
