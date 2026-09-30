@@ -5,6 +5,7 @@ from app.models.event import VehicleEvent, HazardEvent
 import json
 import os
 from geoalchemy2.shape import to_shape
+from shapely.geometry import Point
 
 router = APIRouter()
 
@@ -13,7 +14,7 @@ def serialize_event(event: VehicleEvent):
     if event.location is not None:
         try:
             pt = to_shape(event.location)
-            loc_dict = {"latitude": pt.y, "longitude": pt.x}
+            loc_dict = {"latitude": pt.y, "longitude": pt.x}  # type: ignore[attr-defined]
         except Exception as e:
             print(f"[WARN] Could not parse location for vehicle event {event.id}: {e}")
 
@@ -56,7 +57,7 @@ def serialize_hazard(event: HazardEvent):
     if event.location is not None:
         try:
             pt = to_shape(event.location)
-            loc_dict = {"latitude": pt.y, "longitude": pt.x}
+            loc_dict = {"latitude": pt.y, "longitude": pt.x}  # type: ignore[attr-defined]
         except Exception as e:
             print(f"[WARN] Could not parse location for hazard event {event.id}: {e}")
     return {
