@@ -13,7 +13,7 @@ RUN pip install --no-cache-dir -r requirements-api.txt
 
 # Copy application code
 COPY backend/ ./backend/
-COPY data/cameras.json ./data/cameras.json
+COPY data/cameras.json ./backend/data/cameras.json
 
 # ── Runtime ───────────────────────────────────────────────────────────────
 WORKDIR /app/backend

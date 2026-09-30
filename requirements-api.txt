@@ -4,4 +4,5 @@ pydantic
 SQLAlchemy
 geoalchemy2
 psycopg2-binary
+psycopg[binary]
 python-dotenv
