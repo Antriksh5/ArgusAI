@@ -1,5 +1,4 @@
-# ── Stage 1: build ────────────────────────────────────────────────────────
-FROM python:3.11-slim AS base
+FROM python:3.12-slim AS base
 
 # System deps for OpenCV and psycopg2
 RUN apt-get update && apt-get install -y --no-install-recommends \
@@ -9,8 +8,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 WORKDIR /app
 
 # Copy only requirements first (layer cache)
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+COPY requirements-api.txt .
+RUN pip install --no-cache-dir -r requirements-api.txt
 
 # Copy application code
 COPY backend/ ./backend/
