@@ -55,6 +55,7 @@ const shieldSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12
 function clusterHazards(hazards: HazardEvent[], radiusDeg = 0.0015) {
   const clusters: { lat: number; lon: number; items: HazardEvent[] }[] = [];
   for (const h of hazards) {
+    if (!h.location) continue; // skip events with no GPS
     let placed = false;
     for (const c of clusters) {
       if (Math.abs(c.lat - h.location.latitude) < radiusDeg && Math.abs(c.lon - h.location.longitude) < radiusDeg) {
@@ -218,7 +219,7 @@ export default function App() {
     };
 
     vehicles.forEach(v => {
-      if (!v.is_watchlist_match) {
+      if (!v.is_watchlist_match && v.location) {
         addHTMLMarker(v.location.latitude, v.location.longitude, carSvg, 'bg-[#1C5D8C]',
           `<div style="color:black;font-size:13px;font-family:Arial, sans-serif">
             <div style="font-weight:bold;margin-bottom:4px;color:#1C5D8C">Vehicle Sighting</div>
@@ -234,6 +235,7 @@ export default function App() {
     });
 
     alerts.forEach(a => {
+      if (!a.location) return;
       addHTMLMarker(a.location.latitude, a.location.longitude, shieldSvg, 'bg-red-600',
         `<div style="color:black;font-size:13px;font-family:Arial, sans-serif">
           <div style="font-weight:bold;margin-bottom:4px;color:#dc2626">Watchlist Alert</div>
